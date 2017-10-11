@@ -5,7 +5,7 @@
   "repository": "github:yldio/eslint-config-joyent-portal",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --fix",
+    "test": "eslint . --fix",
     "fmt": "prettier --write --single-quote index.js"
   },
   "devDependencies": {
