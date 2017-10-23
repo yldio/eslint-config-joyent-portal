@@ -9,6 +9,9 @@ module.exports = {
     'prettier',
     'prettier/react'
   ],
+  plugins: [
+    'markdown'
+  ],
   rules: {
     'capitalized-comments': 0
   }
