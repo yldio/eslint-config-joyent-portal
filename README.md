@@ -1,3 +1,5 @@
+moved to [joyent/eslint-config-joyent-portal](https://github.com/joyent/eslint-config-joyent-portal)
+
 # eslint-config-joyent-portal
 
 [![npm](https://img.shields.io/npm/v/eslint-config-joyent-portal.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-joyent-portal)
